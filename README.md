@@ -1,8 +1,8 @@
 # Car-Dekho-Data-Anaylsis
 This program answers the follwing questions to provide a greater insight into the dataset car_data.csv:
-From which manufacturing year to which manufacturing year vehicles are present in this data ?
-What is the lowest price to which a vehicle is sold ?
-What is the highest price to which a vehicle is sold ?
+1.From which manufacturing year to which manufacturing year vehicles are present in this data ?
+2. What is the lowest price to which a vehicle is sold ?
+3. What is the highest price to which a vehicle is sold ?
 How many records are there in this data ?
 Are there any missing records in this data ?
 How many different vehicles are present in this data ?
